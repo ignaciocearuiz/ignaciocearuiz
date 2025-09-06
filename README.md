@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Ignacio Cea Ruiz. I'm a Chilean computer science engineer, currently building my own path in the data science world 👨🏼‍💻
+My name is Ignacio Cea Ruiz. I'm a Chilean computer science and engineering graduate, currently building my own path in the data science world 👨🏼‍💻
 
 
 <!---
